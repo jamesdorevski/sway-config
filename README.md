@@ -1,0 +1,2 @@
+# sway-config
+Deez nuts
